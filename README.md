@@ -1,16 +1,15 @@
 ## Adafruit MS8607 PTH Sensor PCB
 
-<a href="http://www.adafruit.com/products/0"><img src="assets/0.jpg?raw=true" width="500px"><br/>
+<a href="http://www.adafruit.com/products/4716"><img src="assets/board.png?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
 
 PCB files for the Adafruit MS8607 PTH Sensor. 
 
 Format is EagleCAD schematic and board layout
-* https://www.adafruit.com/product/0
+* https://www.adafruit.com/product/4716
 
 ### Description
 
-INSERT PRODUCT COPY HERE
 
 ### License
 
