@@ -10,6 +10,9 @@ Format is EagleCAD schematic and board layout
 
 ### Description
 
+Because of their many applications, Pressure, Temperature, and Humidity sensors (PHT sensors) are a common offering from semiconductor companies. The MS8607 PHT sensor from TE Connectivity  does an admirable job of measuring a wide range of all three environmental conditions. Each and every MS8607 sensor is calibrated at the factory and the calibration constants stored in the sensor itself. This sensor is a one stop shop for all your common weather and environmental related metrics. Just add a MS8607 and you’ll be ready to finish your enclosure and retire as a [Dubia Cockroach Farmer](https://dubiaroachdepot.com/guidance/breeding-dubia-roaches#thermometer)
+
+The MS8607 provides the previously mentioned factory-calibrated pressure, temperature, and humidity data are recorded as **16-bit** values and made available over an I2C bus for simple, two wire (plus power and ground!) connection to your microcontroller. Pressure measurements accuracy comes in at **+/- 2 hPa**, relative humidity at **+/- 3% rH**, and temperature is good to within 1 degree Celsius. One standout feature of the MS8607 is it’s very respectable low power consumption at **as low as 0.78 µA** ! That’s hardly anything! Along with carefully managed microcontroller power usage, getting good battery life out of your sensing project will be that much easier.
 
 ### License
 
